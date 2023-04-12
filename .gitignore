@@ -3,3 +3,6 @@ notebooks/cifar_net.pth
 .ipynb_checkpoints/
 population.csv
 StockEtablissement_A.csv
+data_no_github/base_etablissement_par_tranche_effectif.csv
+data_no_github/name_geographic_information.csv
+data_no_github/net_salary_per_town_categories.csv
