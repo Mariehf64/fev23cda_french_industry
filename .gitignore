@@ -1,3 +1,6 @@
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
+StockEtablissement_A.csv
+population.csv
+all_content_2020_v4.csv
