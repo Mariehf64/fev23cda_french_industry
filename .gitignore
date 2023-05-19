@@ -2,3 +2,4 @@ notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
 data_no_github/population.csv
+all_content_2020_v4.csv
