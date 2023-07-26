@@ -4,3 +4,6 @@ notebooks/cifar_net.pth
 all_content_2020_v4.csv
 all_content_2020.csv
 files/all_content_2020_v5.csv
+files/dataframe_complet.csv
+files/df_nan_TP6020.csv
+files/var_desc_et_nan.csv
